@@ -1,3 +1,3 @@
-<section>
-	<h1>hello</h1>
+<section class="text-black dark:text-blue-500">
+	hello 
 </section>
